@@ -24,5 +24,8 @@ Pig E. Bank Dataset - Created by CareerFoundry for this analysis, the dataset co
 2. Identify reasons for inactivity and potential product improvements.
 3. Examine what competitors offer to understand their advantage over Pig E. Bank.
 
+## Summary
+The Pig E. Bank Data Analytics project focuses on enhancing the bank’s compliance efforts by analyzing risks, creating models, and tackling ethical challenges. It covers key areas such as big data, data mining, predictive analytics, and time series forecasting. The project emphasizes the use of advanced analytical tools alongside ethical decision-making to strengthen the bank’s compliance program and ensure responsible data use.
+
 
    
